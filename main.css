@@ -20,3 +20,12 @@ body {
 .navbar-toggler {
     background-color: #c9a84c;
 }
+
+#sobre-a-varanda {
+    background-color: #001d39;
+    color: #fff;
+}
+
+h3, #colorgold{
+    color: #c9a84c;
+}
