@@ -1,5 +1,5 @@
 body {
-    font-family: roboto, sans-serif;
+    font-family: "Noto Rashi Hebrew", serif
 }
 
 .navbar {
@@ -15,4 +15,8 @@ body {
 .navbar-brand, 
 .navbar-brand:hover {
     color: #fff;
+}
+
+.navbar-toggler {
+    background-color: #c9a84c;
 }
